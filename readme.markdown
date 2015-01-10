@@ -1,5 +1,7 @@
 # watchify
 
+## custom fork with a workaround for an issue where the result is not build correctly
+
 watch mode for browserify builds
 
 [![build status](https://secure.travis-ci.org/substack/watchify.png)](http://travis-ci.org/substack/watchify)
